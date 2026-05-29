@@ -1,7 +1,8 @@
 streamlit
 pandas
-xlsxwriter
+plotly
 openpyxl
+xlsxwriter
 folium
 streamlit-folium
 geopy
